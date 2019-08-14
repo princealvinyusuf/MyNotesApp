@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Notes Project 1</string>
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+    <string name="submit">Submit</string>
+    <string name="delete">Hapus</string>
+    <string name="date">Date</string>
+    <string name="logo_kominfo">Logo Kominfo</string>
+    <string name="proyek_1">Proyek 1</string>
+</resources>
